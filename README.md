@@ -42,3 +42,17 @@ The first general in the legion. This book provides a comprehensive guide to att
 The Legions grow through shared knowledge. Suggestions for improvements, tool additions, or potential future topics are welcome. Please review the specific book's repository for issue tracking.
 
 **Follow for updates.**
+
+## ⚡ Zeus Hacks: Work in Progress
+
+This repository is the official home for the **Zeus Hacks** project. The book and its accompanying toolkit are currently under active development.
+
+**Current Status:**
+- **📖 eBook Manuscript:** In Progress (Chapters 1 & 2 completed)
+- **🛠️ Darkwex Toolkit:** In Development (`zeus-scan` tool completed)
+
+**Download Latest Draft:**
+*The full PDF will be available in the [`/Zeus-Hacks/ebook/`](./Zeus-Hacks/ebook/) directory upon completion.*
+
+**Stay Updated:**
+Watch this repo or check back regularly for updates and new tool releases.
